@@ -6,6 +6,6 @@ abstract class Animal {
 
 	// concrete method having method definition
 	void label() {
-		System.out.println("Animal's data:");
+		System.out.println("Animal'regfgergerrggergergs data:");
 	}
 }
